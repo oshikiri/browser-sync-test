@@ -1,4 +1,5 @@
 module.exports = {
+    "logLevel": 'debug',
     "files": './test.html',
     "server": {baseDir: './'},
     "port": 3000,
